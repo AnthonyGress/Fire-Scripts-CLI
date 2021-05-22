@@ -1,6 +1,8 @@
 # Fire-Scripts-Cli
 A CLI tool to use ADB commands to modify any firestick.
 
+![Fire Scripts CLI Splash]
+
 Depends on ADB, must be installed into /bin/bash
 On Mac: 
 1. Install HomeBrew <br>
