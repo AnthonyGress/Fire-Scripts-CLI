@@ -3,10 +3,10 @@ A CLI tool to use ADB commands to modify any firestick.
 
 Depends on ADB, must be installed into /bin/bash
 On Mac: 
-1. Install HomeBrew 
+1. Install HomeBrew <br>
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
   
-2. Install ADB 
+2. Install ADB <br>
   brew install android-platform-tools
 
 
