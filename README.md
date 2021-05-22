@@ -3,7 +3,7 @@ A CLI tool to use ADB commands to modify any firestick.
 
 ![Fire Scripts CLI Splash](https://github.com/techx-guy/Fire-Scripts-CLI/blob/main/Fire%20Scripts%20CLI%20Splash.png)
 
-Depends on ADB, must be installed into /bin/bash
+Depends on ADB, must be installed into /bin/bash <br>
 On Mac: 
 1. Install HomeBrew <br>
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
